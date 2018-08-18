@@ -1,0 +1,60 @@
+img {
+    width:500;
+    height:auto;
+    margin-top: 100px;
+    margin-bottom:100px;
+}
+
+.banImg {
+  text-align: center;
+}
+
+.navbar-inverse {
+    border-radius: 0 !important;
+    background-color: #4285F4 !important;
+  
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff !important;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(100, 110, 105);
+    color: white;
+    text-align: center;
+padding: 20px;
+ }
+
+ .navbar {
+    overflow: hidden;
+    position: fixed !important;
+    top: 0;
+    width: 100%;
+  }
+
+  .table-bordered {
+      margin-bottom: 100px !important;
+ 
+        }
+
+        tbody {
+            max-height: 500px;
+            overflow: scroll;
+        }
+
+        .comp-page {
+            margin-top: 100px;
+        }
+
+        .row {
+            margin-left: 0px !important;
+        }
+
+        .navbar-inverse .navbar-brand {
+            color: #fff !important;
+        }
